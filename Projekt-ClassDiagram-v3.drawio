@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T10:49:45.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zhG5ETtywbmkmWkd4r70" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T10:52:41.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VXFNneT35ghdohWHtzeg" version="20.6.0" type="github">
   <diagram id="L5aYX6kbzt17_Y6ruYPm" name="Stránka-1">
-    <mxGraphModel dx="1518" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,6 +528,11 @@
             <Array as="points">
               <mxPoint x="460" y="583" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDrxVBF3FfCTh_j3WBqN-46" value="0, n" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="810" y="552.9999999999998" as="geometry">
+            <mxPoint x="28" y="116" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
