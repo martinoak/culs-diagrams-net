@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T11:05:09.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ap3kjXNaXaTaUPH7GbPZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T11:09:33.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u_09j38MtVs1iwffhNQH" version="20.6.0" type="github">
   <diagram id="L5aYX6kbzt17_Y6ruYPm" name="Stránka-1">
     <mxGraphModel dx="1835" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="regOmah-uOrhAEvhPZx0-105" value="Objednávka" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="409" width="160" height="171" as="geometry">
+          <mxGeometry x="-15" y="409" width="160" height="201" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -314,6 +314,9 @@
         </mxCell>
         <mxCell id="regOmah-uOrhAEvhPZx0-28" value="Kód pro vyzvednutí" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="regOmah-uOrhAEvhPZx0-105" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BDrxVBF3FfCTh_j3WBqN-51" value="Cílová destinace" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="regOmah-uOrhAEvhPZx0-105">
+          <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="regOmah-uOrhAEvhPZx0-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -433,8 +436,8 @@
             <mxPoint x="-3" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDrxVBF3FfCTh_j3WBqN-1" value="Depo, Reklamace, Komisni presun balicku, Zakaznik si pro balicek prijde na pobocku/depo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="210" width="510" height="30" as="geometry" />
+        <mxCell id="BDrxVBF3FfCTh_j3WBqN-1" value="Komisni presun balicku, Zakaznik si pro balicek prijde na pobocku/depo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="210" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BDrxVBF3FfCTh_j3WBqN-2" value="Depo" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="474.5" y="514.5" width="171" height="104.5" as="geometry">
