@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T11:30:55.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CbNiqWqfzb6k9w_lKSm9" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T11:33:22.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="G_TzYS3zwDr8K5dO6WV0" version="20.6.0" type="github">
   <diagram id="L5aYX6kbzt17_Y6ruYPm" name="Stránka-1">
     <mxGraphModel dx="1403" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,8 +474,8 @@
             <mxPoint x="23" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDrxVBF3FfCTh_j3WBqN-22" value="1" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="1012.53" y="847.4999999999998" as="geometry">
+        <mxCell id="BDrxVBF3FfCTh_j3WBqN-22" value="0,n" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="1002.53" y="850.7499999999998" as="geometry">
             <mxPoint x="20" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
