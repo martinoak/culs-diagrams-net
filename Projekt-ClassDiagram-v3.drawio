@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T19:34:31.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3PAvLsn0ujDutKwLkiUZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T19:37:40.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PVmggBwS9s9ZDWpB7PVN" version="20.6.0" type="github">
   <diagram id="L5aYX6kbzt17_Y6ruYPm" name="Stránka-1">
     <mxGraphModel dx="2222" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,6 +554,9 @@
         </mxCell>
         <mxCell id="L4dFdWg-rqXFqRyfB6u--4" value="Číslo poslední pobočky" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="L4dFdWg-rqXFqRyfB6u--2">
           <mxGeometry y="52" width="171" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="L4dFdWg-rqXFqRyfB6u--14" value="Číslo vozu" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="L4dFdWg-rqXFqRyfB6u--2">
+          <mxGeometry y="78" width="171" height="26" as="geometry" />
         </mxCell>
         <mxCell id="L4dFdWg-rqXFqRyfB6u--8" value="1, n" style="resizable=0;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="550" y="247" as="geometry">
