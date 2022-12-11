@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T20:15:09.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YdcDK3_n2nZFXwNlTQrB" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T13:20:43.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="k3SngKhecpYqRVqCNa9i" version="20.6.2" type="github">
   <diagram id="tyh3BbqqU5Aa6YJ-12lD" name="Stránka-1">
-    <mxGraphModel dx="571" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,14 @@
         <mxCell id="Qde1e1kA7MSNwPP84bWM-7" value="Úředník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="320" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9efELcgQeVrvSYD4sG1p-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Qde1e1kA7MSNwPP84bWM-9" target="Qde1e1kA7MSNwPP84bWM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9efELcgQeVrvSYD4sG1p-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Qde1e1kA7MSNwPP84bWM-9" target="Qde1e1kA7MSNwPP84bWM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qde1e1kA7MSNwPP84bWM-9" value="Vytvoření objednávky" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="180" width="110" height="60" as="geometry" />
+          <mxGeometry x="310" y="250" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qde1e1kA7MSNwPP84bWM-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qde1e1kA7MSNwPP84bWM-1" target="Qde1e1kA7MSNwPP84bWM-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,10 +55,10 @@
         <mxCell id="Qde1e1kA7MSNwPP84bWM-26" value="Řidič" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="610" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wM-L03-5KIFUmMX-lI7g-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Qde1e1kA7MSNwPP84bWM-27" target="Qde1e1kA7MSNwPP84bWM-32">
+        <mxCell id="wM-L03-5KIFUmMX-lI7g-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Qde1e1kA7MSNwPP84bWM-27" target="Qde1e1kA7MSNwPP84bWM-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM-L03-5KIFUmMX-lI7g-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Qde1e1kA7MSNwPP84bWM-27" target="Qde1e1kA7MSNwPP84bWM-7">
+        <mxCell id="wM-L03-5KIFUmMX-lI7g-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Qde1e1kA7MSNwPP84bWM-27" target="Qde1e1kA7MSNwPP84bWM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qde1e1kA7MSNwPP84bWM-27" value="Převzetí nakládky" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -82,16 +88,16 @@
             <mxPoint x="140" y="490.52631578947376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wM-L03-5KIFUmMX-lI7g-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="wM-L03-5KIFUmMX-lI7g-2" target="Qde1e1kA7MSNwPP84bWM-2">
+        <mxCell id="wM-L03-5KIFUmMX-lI7g-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="wM-L03-5KIFUmMX-lI7g-2" target="Qde1e1kA7MSNwPP84bWM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wM-L03-5KIFUmMX-lI7g-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wM-L03-5KIFUmMX-lI7g-2">
+        <mxCell id="wM-L03-5KIFUmMX-lI7g-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wM-L03-5KIFUmMX-lI7g-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wM-L03-5KIFUmMX-lI7g-2" value="Zrušení objednávky" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="110" height="60" as="geometry" />
+        <mxCell id="wM-L03-5KIFUmMX-lI7g-2" value="Zrušení objednávky" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="180" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
